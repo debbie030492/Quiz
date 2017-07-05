@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+		<head>
+		<link href="https://fonts.googleapis.com/css?family=Patrick+Hand+SC" rel="stylesheet">
+		<link rel="stylesheet" href="Assignment3.css">
+		<script src="Assignment3.js"></script>
+		<style></style>
+		<title>Israeli Culture</title>
+		<script></script>
+	</head>
+	<body>
+			<h1>How much Israeli are you ?</h1>
+			<p class="intro1"> Israel is one of the only parliament democracies in the Middle East. The official languages are Hebrew and Arabic,
+with English the most foreign-used language. The roots of Israeli culture developed before the foundation of the State
+of Israel in 1948 with Tel Aviv and Jerusalem considered the main cultural hubs of Israel.
+			</p>
+		<form id = "quiz" name = "quiz">
+		<div>
+		<div class="questiona">
+		<div class="title1"></div>
+			<h2> Concerning education, Israel was named the second most-educated country in the world. true or false ?</h2>
+  			<div class="answer1">
+  			<input id="mc1" type="radio" name="question1" value="TRUE"> <label for="mc1">TRUE</label><br>
+  			<input id="mc2" type="radio" name="question1" value="FALSE"> <label for="mc2">FALSE</label><br>
+  			</div>
+		</div>
+		<div class="questionb">
+		<div class="title2"></div>
+			<h2> What is the date of the Israeli declaration of Independance ?<br>(dd/mm/yyyy) </h2>
+  			<input id="textbox" type="text" name="question2"><br><br>
+		</div>
+		<div class="questionc">
+		<div class="title3"></div>
+			<h2> What is the approximate population of Israel (in millions)?</h2>
+  			Quantity (between 1 and 10):
+  			<input id="textbox" type="number" name="question3" min="1" max="10"><br><br>
+		</div>
+		<div class="questiond">
+		<div class="title4"></div>
+			<h2> Israel's main international airport, located at Lod, some 19km outside Tel Aviv, is called:</h2>
+			<div class="answer4">
+  			<input class="answer" id="mc3" type="radio" name="question4" value="Tel Aviv Airport"> <label for="mc3">Tel Aviv Airport</label><br>
+  			<input class="answer" id="mc4" type="radio" name="question4" value="El Al Airport"> <label for="mc4">El Al Airport</label><br>
+  			<input class="answer" id="mc5" type="radio" name="question4" value="Ben Gurion Airport"> <label for="mc5">Ben Gurion Airport</label><br>
+  			<input class="answer" id="mc6" type="radio" name="question4" value="Golda Meir Airport"> <label for="mc6">Golda Meir Airport</label><br><br>
+			</div>
+		</div>
+		<div class="questione">
+		<div class="title5"></div>
+			<h2> In Israel, the main meal of the day is usually breakfast, lunch or dinner ?</h2>
+			<br/>
+			<input id="textbox" type="text" name="question5"><br><br>
+			<input id="buttons" type="button" class="button" value="Submit" onclick="check();">
+			<span id="after_submit">
+			<span class="ans" id="numbercorrect"></span><br>
+			<span class="ans" id="message"></span>
+		</div>
+		</div>
+
+		</div>
+
+
+
+
+	</body>
+</html>

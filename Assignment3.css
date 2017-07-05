@@ -1,0 +1,155 @@
+			body{
+		        background-color:lightblue;
+		        }
+			.questiona{
+				width:100%;
+				text-align:center;
+				height:350px;
+				padding-top:40px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.title1{
+			    background-image:url("http://static2.businessinsider.com/image/560a2fcadd0895ac058b463e/the-21-coolest-tech-startups-in-israel.jpg");
+				background-size:50% 100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				opacity:0.5;
+				height:180px;
+				}
+			.questionb{
+				width:100%;
+				text-align:center;
+				height:300px;
+				padding-top:40px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.title2{
+			    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGKx9u39l7NBzIVLIlseBmVFCbwkZiK7zhZubHN9CNrEU6E7o");
+				background-size:50% 100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				opacity:0.5;
+				height:180px;
+				}
+			.questionc{
+				width:100%;
+				text-align:center;
+				height:300px;
+				padding-top:40px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.title3{
+			    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6TkECEinFB0pQuojrUCpxiNQeWSNnh5ZhF8gTZuoEfOG2Yd29");
+				background-size:50% 100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				opacity:0.5;
+				height:180px;
+				}
+			.questiond{
+				width:100%;
+				text-align:center;
+				height:400px;
+				padding-top:40px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.title4{
+			    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuqAHzE4xU9XrCtxmZHEX3czCXXmr3rFe-CHP9XEJEutLNCsaGjw");
+				background-size:50% 100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				opacity:0.5;
+				height:180px;
+				}
+			.questione{
+				width:100%;
+				text-align:center;
+				height:500px;
+				padding-top:40px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.title5{
+			    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJWDwoSfR0B31HHDbp7VaoVgiPLyCMdBqJ6lgtwXJbWj70Z0V");
+				background-size:50% 100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				opacity:0.5;
+				height:180px;
+				}
+			.questionf{
+				width:100%;
+				text-align:center;
+				margin-top:-200px;
+				height:300px;
+				padding-left:10px;
+				padding-right:10px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			.container{
+				text-align:center;
+				padding-right:200px;
+				padding-left:200px;
+				font-family:"Patrick Hand SC", cursive;
+				}
+			h1{
+				font-family:"Patrick Hand SC", cursive;
+				text-align:center;
+				}
+			.intro1{
+			    font-family:Comic Sans MS;
+			    text-align:center;
+			    padding-right:150px;
+			    padding-left:150px;
+			    }
+			.content{
+				text-align:center;
+				margin-top:-20px;
+				padding-right:300px;
+				padding-left:300px;
+				height:480px;
+				}
+			.center{
+				text-align:center;
+				padding-right:300px;
+				padding-left:300px;
+				}
+			.button{
+				text-align:center;
+			    background-color:lightblue;
+				border:none;
+				font-size:20px;
+				cursor:pointer;
+				border:3px solid rgb(0, 154, 223);
+				border-radius:6px;
+				}
+			.button:hover{
+			    background-color:rgb(0, 154, 223);
+				text-decoration:none;
+				}
+			#buttons{
+				margin:30px;
+				}
+			.answer4{
+				    margin-left: 45%;
+    				text-align: left;
+				}
+			.answer1{
+				    margin-left: 45%;
+    				text-align: left;
+				}
+			#after_submit{
+				visibility:hidden;
+				}
+			.ans{
+				font-size:22px;
+				}
